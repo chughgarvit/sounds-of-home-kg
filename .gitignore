@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/real/*.json
+data/real/*.csv
+data/real/kg/
+data/sins/
+!data/real/recorders.json
+!data/real/report.md
+notebook/
